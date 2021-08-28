@@ -1,0 +1,13 @@
+header {
+    height: 200px;
+    background: url('food-header.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.search {
+    max-width: 600px;
+    background: rgba(255, 255, 255, .5);
+    border-radius: 10px;
+}
